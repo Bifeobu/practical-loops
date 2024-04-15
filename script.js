@@ -42,5 +42,10 @@ function checkPrime(n) {
     else
         console.log(n + " is not prime");
 }
+checkPrime(1);
+checkPrime(2);
+checkPrime(3);
 checkPrime(4);
 checkPrime(5);
+checkPrime(6);
+checkPrime(7);
